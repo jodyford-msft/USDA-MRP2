@@ -11,7 +11,7 @@
 # MAGIC plt.bar(data.keys(), data.values())
 # MAGIC
 # MAGIC # Add chart title and labels
-# MAGIC plt.title('Fruit Quantities')
+# MAGIC plt.title('Fruit Quantities-is')
 # MAGIC plt.xlabel('Fruit')
 # MAGIC plt.ylabel('Quantity')
 # MAGIC
